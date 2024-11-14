@@ -5,4 +5,4 @@ services:
       dockerfile: Dockerfile
       target: prod
     ports:
-      - 8080:80
+      - 3002:80
